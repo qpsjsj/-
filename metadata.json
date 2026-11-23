@@ -1,0 +1,8 @@
+{
+  "name": "다이노 점프",
+  "description": "선인장과 익룡을 피해 달리는 레트로 감성의 공룡 점프 웹 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
